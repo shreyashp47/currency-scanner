@@ -1,3 +1,4 @@
-500
-100
-10
+0 10 Rs Note
+1 20 Rs Note
+2 200 Rs Note
+3 500 Rs Note
